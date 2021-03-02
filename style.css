@@ -106,12 +106,14 @@ width: 40px;
     display: inline-block;
     margin-top: 8px;
     font-weight: 600;
+    min-width: 130px;
     
 }
 .date{
     display: inline-block;
     margin-top: 8px;
     color:gray;
+   
 }
 #pink{
     height: 16px;
